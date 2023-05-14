@@ -9,9 +9,9 @@
 <hr>
 Package Contents:
 
-1. [part_1_mars_news.ipynb](https://github.com/shriparna/data-collection-challenge/blob/main/part_1_mars_news.ipynb) Deliverable 1: (Scrape titles and preview text from Mars news articles) to be evaluated
+1. [part_1_mars_news.ipynb](https://github.com/shriparna/data-collection-challenge/blob/main/part_1_mars_news.ipynb) Part 1: (Scrape Titles and Preview Text from Mars News) to be evaluated
 
-2. [part_2_mars_weather.ipynb](https://github.com/shriparna/data-collection-challenge/blob/main/part_2_mars_weather.ipynb) Deliverable 2: (Scrape and analyze Mars weather data, which exists in a table) to be evaluated
+2. [part_2_mars_weather.ipynb](https://github.com/shriparna/data-collection-challenge/blob/main/part_2_mars_weather.ipynb) Part 2: (Scrape and Analyze Mars Weather Data) to be evaluated
 
 <hr>
 
