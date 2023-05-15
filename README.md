@@ -13,6 +13,8 @@ Package Contents:
 
 2. [part_2_mars_weather.ipynb](https://github.com/shriparna/data-collection-challenge/blob/main/part_2_mars_weather.ipynb) Part 2: (Scrape and Analyze Mars Weather Data) to be evaluated
 
+3. [mars_data.csv](https://github.com/shriparna/data-collection-challenge/blob/main/mars_data.csv) csv file generated as part of Part 2 above to be evaluated
+
 <hr>
 
 ## Instructions:
