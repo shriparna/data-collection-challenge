@@ -36,7 +36,7 @@ Package Contents:
     - Open the file part_2_mars_weather.ipynb from the notebook
     - Execute from top to bottom   
     - Evaluate the csv file generated from this challenge
-    - Observations are provided below and in README.md
+    - Observations are provided below
 <hr>
 
 ## Observations:
