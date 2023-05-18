@@ -19,23 +19,6 @@ Package Contents:
 
 <hr>
 
-## Observations:
-
-- The data was analyzed to answer the following questions: (10 points)
-    - How many months exist on Mars? (5 points)
-        - 12 months
-    - How many Martian days' worth of data are there? (5 points)
-        - 1867
-
-- The data was analyzed to answer the following questions, and a data visualization was created to support each answer: (30 points)
-    - Which month, on average, has the lowest temperature? The highest? (10 points)
-        - Lowest temperature in the 3rd month and Highest in the 8th month
-    - Which month, on average, has the lowest atmospheric pressure? The highest? (10 points)
-        - Lowest atmospheric pressure in the 6th month and Highest in the 9th month
-    - How many terrestrial days exist in a Martian year? A visual estimate within 25% was made. (10 points)
-        - Approximately 675 as it completes one cycle
-<hr>
-
 ## Instructions:
 
 - For part_1_mars_news.ipynb
@@ -53,5 +36,22 @@ Package Contents:
     - Open the file part_2_mars_weather.ipynb from the notebook
     - Execute from top to bottom   
     - Evaluate the csv file generated from this challenge
-    - Observations are provided above and in README.md
+    - Observations are provided below and in README.md
+<hr>
+
+## Observations:
+
+- The data was analyzed to answer the following questions: (10 points)
+    - How many months exist on Mars? (5 points)
+        - 12 months
+    - How many Martian days' worth of data are there? (5 points)
+        - 1867
+
+- The data was analyzed to answer the following questions, and a data visualization was created to support each answer: (30 points)
+    - Which month, on average, has the lowest temperature? The highest? (10 points)
+        - Lowest temperature in the 3rd month and Highest in the 8th month
+    - Which month, on average, has the lowest atmospheric pressure? The highest? (10 points)
+        - Lowest atmospheric pressure in the 6th month and Highest in the 9th month
+    - How many terrestrial days exist in a Martian year? A visual estimate within 25% was made. (10 points)
+        - Approximately 675 as it completes one cycle
 <hr>
